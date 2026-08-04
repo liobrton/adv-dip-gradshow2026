@@ -1,0 +1,25 @@
+{
+    "name": "adv-dip-gradshow2026",
+    "version": "1.0.0",
+    "description": "",
+    "homepage": "https://github.com/liobrton/adv-dip-gradshow2026#readme",
+    "bugs": {
+        "url": "https://github.com/liobrton/adv-dip-gradshow2026/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/liobrton/adv-dip-gradshow2026.git"
+    },
+    "license": "UNLICENSED",
+    "author": "",
+    "type": "commonjs",
+    "main": "index.html",
+    "scripts": {
+        "dev": "npx @tailwindcss/cli -i ./assets/css/input.css -o ./assets/css/output.css --watch",
+        "build": "npx @tailwindcss/cli -i ./assets/css/input.css -o ./assets/css/output.css --minify"
+    },
+    "dependencies": {
+        "@tailwindcss/cli": "^4.3.3",
+        "tailwindcss": "^4.3.3"
+    }
+}
