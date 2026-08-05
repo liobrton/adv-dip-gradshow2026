@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Person One",
+        "speciality": "Animation"
+    },
+    {
+        "name": "Person Two",
+        "speciality": "Game Art"
+    },
+    {
+        "name": "Person Three",
+        "speciality": "Drawing"
+    }
+]
