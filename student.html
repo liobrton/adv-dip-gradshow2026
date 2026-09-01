@@ -23,14 +23,18 @@
     </header>
 
     <main class="mx-auto">
+      <br />
       <!--MAIN PROFILE INFO-->
       <section
-        class="mx-auto flex w-3/4 flex-col justify-start border sm:w-1/2 sm:flex-row"
+        class="mx-auto flex w-3/4 max-w-200 flex-col justify-start gap-4 md:flex-row"
       >
-        <div class="mx-auto my-auto border">
-          <img src="https://placehold.co/300" class="rounded-full border" />
+        <div class="mx-auto my-auto w-50 md:w-200">
+          <img src="https://placehold.co/300" class="rounded-full" />
         </div>
-        <section class="border">
+        <section class="my-auto flex flex-col">
+          <section class="order-first bg-gray-200 md:order-last">
+            <a href="">links go here</a>
+          </section>
           <div class="flex flex-row gap-4">
             <h3 class="">Student Name</h3>
             <h4 class="">Student's Specialty</h4>
@@ -44,9 +48,10 @@
             dictum aliquet, justo augue aliquam turpis, at consectetur tellus
             magna quis lacus.
           </p>
-          <section class=""><a href="">links go here</a></section>
         </section>
       </section>
+
+      <br />
 
       <!--SHOWREEL-->
       <section class="mx-auto aspect-video w-3/4">
@@ -69,9 +74,11 @@
         ></iframe>
       </section>
 
+      <br />
+
       <!--GALLERY-->
       <section
-        class="mx-auto grid w-3/4 grid-cols-2 gap-2 sm:grid-cols-4 md:grid-cols-6"
+        class="mx-auto grid w-3/4 grid-cols-2 gap-2 md:grid-cols-6 md:gap-4"
       >
         <div class="aspect-square">
           <img
