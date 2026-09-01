@@ -1,14 +1,23 @@
 [
     {
-        "name": "Person One",
-        "speciality": "Animation"
+        "name": "Nic Parker",
+        "speciality": "Storyboarding",
+        "artistStatement": "Artist statement here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus. ",
+        "link": "https://www.tumblr.com/ethosiab",
+        "showreel": "https://www.youtube.com/embed/kst_YfSXxDk?si=Of4mU3RpFgs7-0XM"
     },
     {
         "name": "Person Two",
-        "speciality": "Game Art"
+        "speciality": "Insert Speciality",
+        "artistStatement": "Artist statement here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus. ",
+        "link": "",
+        "showreel": "https://www.youtube.com/embed/kst_YfSXxDk?si=Of4mU3RpFgs7-0XM"
     },
     {
         "name": "Person Three",
-        "speciality": "Drawing"
+        "speciality": "Insert Other Speciality",
+        "artistStatement": "Artist statement here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus. ",
+        "link": "",
+        "showreel": "https://www.youtube.com/embed/kst_YfSXxDk?si=Of4mU3RpFgs7-0XM"
     }
 ]

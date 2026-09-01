@@ -22,7 +22,7 @@ export async function insertStudent() {
         return;
     }
 
-    pageMain.innerHTML = StudentTemplate(studentData);
+    pageMain.innerHTML = StudentTemplate(studentData, studentId);
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
