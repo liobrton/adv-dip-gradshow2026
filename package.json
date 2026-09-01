@@ -28,7 +28,8 @@
     "prettier": {
         "plugins": [
             "prettier-plugin-tailwindcss"
-        ]
+        ],
+        "tailwindStylesheet": "./assets/css/input.css"
     },
     "allowScripts": {
         "@parcel/watcher@2.5.1": true
