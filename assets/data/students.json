@@ -1,23 +1,170 @@
 [
-    {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
-        "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
-    },
-    {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
-        "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
-    },
-    {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
-        "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
-    }
+  {
+    "name": "Nic Parker",
+    "speciality": "Storyboard Artist/2D Animator",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  },
+  {
+    "name": "Student Name",
+    "speciality": "Student Speciality",
+    "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
+    "link": "https://linktr.ee/",
+    "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+  }
 ]
