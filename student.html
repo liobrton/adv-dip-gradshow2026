@@ -9,6 +9,23 @@
       name="description"
       content="North Metro TAFE's Game Art and Animation graduates of 2026!"
     />
+    <script>
+      function galleryView(img) {
+        //get the element of the expanded image
+        let expandedImg = document.getElementById("expandedImg");
+
+        // assign the src of the image being clicked on to the expanded image
+        expandedImg.src = img.src;
+
+        //show the container element
+        expandedImg.parentElement.style.display = "block";
+      }
+
+      function closeImage() {
+        let expandedImg = document.getElementById("expandedImg");
+        expandedImg.parentElement.style.display = "none";
+      }
+    </script>
   </head>
 
   <body>
@@ -22,9 +39,7 @@
       </div>
     </header>
 
-    <main id="pageMain" class="mx-auto">
-      
-    </main>
+    <main id="pageMain" class="mx-auto"></main>
 
     <footer class="h-30 bg-gray-200">
       <section></section>
