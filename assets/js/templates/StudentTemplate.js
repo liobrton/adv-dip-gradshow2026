@@ -13,12 +13,13 @@ export function StudentTemplate(data, id) {
           />
         </div>
         <section class="my-auto flex flex-col">
-          <section class="order-first bg-gray-200 md:order-last">
-            <a href="${data.link}">linkTree</a>
-          </section>
-          <div class="flex flex-row gap-4">
-            <h3 class="">${data.name}</h3>
-            <h4 class="">${data.speciality}</h4>
+          <div class="flex flex-row justify-between">
+            <div class="flex flex-row gap-4">
+              <h3 class="">${data.name}</h3>
+              <h4 class="">${data.speciality}</h4>
+            </div>
+            <a href="${data.link}" class="hidden md:inline"><i class="fa-brands fa-linktree"></i> linktr.ee</a>
+            <a href="${data.link}" class="md:hidden"><i class="fa-brands fa-linktree"></i></a>
           </div>
           <p class="">
             ${data.artistStatement}
