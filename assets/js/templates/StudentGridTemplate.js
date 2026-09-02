@@ -1,4 +1,4 @@
-export function StudentTemplate(data, id) {
+export function StudentGridTemplate(data, id) {
     return `
           <a href="./student.html?id=${id}" class="max-w-45">
             <div class="flex flex-col">
