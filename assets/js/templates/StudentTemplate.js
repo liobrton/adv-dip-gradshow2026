@@ -5,8 +5,12 @@ export function StudentTemplate(data, id) {
       <section
         class="mx-auto flex w-3/4 max-w-200 flex-col justify-start gap-4 md:flex-row"
       >
-        <div class="mx-auto my-auto w-50 md:w-200">
-          <img src="./assets/images/${id}/profile.png" class="rounded-full" />
+        <div class="aspect-square mx-auto my-auto w-50 md:w-200">
+          <img
+            class="h-full max-h-full w-full max-w-full rounded-full object-cover object-center"
+            src="./assets/images/${id}/profile.png"
+            alt=""
+          />
         </div>
         <section class="my-auto flex flex-col">
           <section class="order-first bg-gray-200 md:order-last">
