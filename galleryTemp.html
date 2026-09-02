@@ -1,56 +1,41 @@
-export function StudentTemplate(data, id) {
-  return `
-      <br />
-      <!--MAIN PROFILE INFO-->
-      <section
-        class="mx-auto flex w-3/4 max-w-200 flex-col justify-start gap-4 md:flex-row"
-      >
-        <div class="aspect-square mx-auto my-auto w-50 md:w-200">
-          <img
-            class="h-full max-h-full w-full max-w-full rounded-full object-cover object-center"
-            src="./assets/images/${id}/profile.png"
-            alt=""
-          />
-        </div>
-        <section class="my-auto flex flex-col">
-          <section class="order-first bg-gray-200 md:order-last">
-            <a href="${data.link}">linkTree</a>
-          </section>
-          <div class="flex flex-row gap-4">
-            <h3 class="">${data.name}</h3>
-            <h4 class="">${data.speciality}</h4>
-          </div>
-          <p class="">
-            ${data.artistStatement}
-          </p>
-        </section>
-      </section>
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="./assets/css/output.css" rel="stylesheet" />
+    <title>2026 Grad Show</title>
+    <meta
+      name="description"
+      content="North Metro TAFE's Game Art and Animation graduates of 2026!"
+    />
+    <script>
+      function galleryView(img) {
+        //get the element of the expanded image
+        let expandedImg = document.getElementById("expandedImg");
 
-      <br />
+        // assign the src of the image being clicked on to the expanded image
+        expandedImg.src = img.src;
 
-      <!--SHOWREEL-->
-      <section class="mx-auto aspect-video w-3/4 max-w-200">
-        <iframe
-          class="h-full w-full"
-          src="${data.showreel}"
-          title="YouTube video player"
-          frameborder="0"
-          allow="
-            accelerometer;
-            autoplay;
-            clipboard-write;
-            encrypted-media;
-            gyroscope;
-            picture-in-picture;
-            web-share;
-          "
-          referrerpolicy="strict-origin-when-cross-origin"
-          allowfullscreen
-        ></iframe>
-      </section>
+        //show the container element
+        expandedImg.parentElement.style.display = "block";
+      }
+    </script>
+  </head>
 
+  <body>
+    <!--TITLE BAR-->
+    <header
+      class="h-40 bg-[url(https://placehold.co/1920x1080)] bg-cover bg-center"
+    >
+      <div class="">
+        <h2 class="text-center text-xl">NORTH METRO TAFE - 2026 Graduates</h2>
+        <h1 class="text-center text-5xl">Animation and Game Art</h1>
+      </div>
+    </header>
+
+    <main id="pageMain" class="mx-auto">
       <br />
-      
       <!--GALLERY-->
       <section
         class="mx-auto grid w-3/4 max-w-300 grid-cols-2 gap-2 md:grid-cols-6 md:gap-4"
@@ -58,7 +43,7 @@ export function StudentTemplate(data, id) {
         <div class="aspect-square">
           <img
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
-            src="./assets/images/${id}/gallery01.png"
+            src="./assets/images/0/gallery01.png"
             alt=""
             onclick="galleryView(this)"
           />
@@ -66,7 +51,7 @@ export function StudentTemplate(data, id) {
         <div class="aspect-square">
           <img
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
-            src="./assets/images/${id}/gallery02.png"
+            src="./assets/images/0/gallery02.png"
             alt=""
             onclick="galleryView(this)"
           />
@@ -74,7 +59,7 @@ export function StudentTemplate(data, id) {
         <div class="aspect-square">
           <img
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
-            src="./assets/images/${id}/gallery03.png"
+            src="./assets/images/0/gallery03.png"
             alt=""
             onclick="galleryView(this)"
           />
@@ -82,7 +67,7 @@ export function StudentTemplate(data, id) {
         <div class="aspect-square">
           <img
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
-            src="./assets/images/${id}/gallery04.png"
+            src="./assets/images/0/gallery04.png"
             alt=""
             onclick="galleryView(this)"
           />
@@ -90,7 +75,7 @@ export function StudentTemplate(data, id) {
         <div class="aspect-square">
           <img
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
-            src="./assets/images/${id}/gallery05.png"
+            src="./assets/images/0/gallery05.png"
             alt=""
             onclick="galleryView(this)"
           />
@@ -98,7 +83,7 @@ export function StudentTemplate(data, id) {
         <div class="aspect-square">
           <img
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
-            src="./assets/images/${id}/gallery06.png"
+            src="./assets/images/0/gallery06.png"
             alt=""
             onclick="galleryView(this)"
           />
@@ -116,6 +101,10 @@ export function StudentTemplate(data, id) {
           class="mx-auto my-25 aspect-auto max-h-3/4 max-w-3/4 md:max-w-1/2"
         />
       </div>
-      <br />
-    `;
-}
+    </main>
+
+    <footer class="h-30 bg-gray-200">
+      <section></section>
+    </footer>
+  </body>
+</html>
