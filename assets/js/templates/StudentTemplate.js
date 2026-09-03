@@ -63,6 +63,7 @@ export function StudentTemplate(data, id) {
       >
         <div class="aspect-square">
           <img
+            onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
             src="./assets/images/${id}/gallery01.png"
             alt=""
@@ -71,6 +72,7 @@ export function StudentTemplate(data, id) {
         </div>
         <div class="aspect-square">
           <img
+            onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
             src="./assets/images/${id}/gallery02.png"
             alt=""
@@ -79,6 +81,7 @@ export function StudentTemplate(data, id) {
         </div>
         <div class="aspect-square">
           <img
+            onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
             src="./assets/images/${id}/gallery03.png"
             alt=""
@@ -87,6 +90,7 @@ export function StudentTemplate(data, id) {
         </div>
         <div class="aspect-square">
           <img
+            onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
             src="./assets/images/${id}/gallery04.png"
             alt=""
@@ -95,6 +99,7 @@ export function StudentTemplate(data, id) {
         </div>
         <div class="aspect-square">
           <img
+            onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
             src="./assets/images/${id}/gallery05.png"
             alt=""
@@ -103,6 +108,7 @@ export function StudentTemplate(data, id) {
         </div>
         <div class="aspect-square">
           <img
+            onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
             src="./assets/images/${id}/gallery06.png"
             alt=""
