@@ -12,9 +12,9 @@ export function StudentTemplate(data, id) {
             alt=""
           />
         </div>
-        <section class="my-auto flex flex-col">
+        <section class="my-auto flex flex-col gap-2">
           <div class="flex flex-row justify-between">
-            <div class="flex flex-row gap-4">
+            <div class="flex flex-col gap-2 md:flex-row md:gap-4">
               <h3 class="">${data.name}</h3>
               <h4 class="">${data.speciality}</h4>
             </div>
