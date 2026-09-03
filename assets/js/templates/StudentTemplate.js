@@ -1,4 +1,9 @@
 export function StudentTemplate(data, id) {
+  // check if showreel is linked
+  const showreel = data.showreel.trim();
+  let showreelExists = showreel.length > 0 ? true : false;
+
+  // if no showreel linked, hide that element
   return `
       <br />
       <!--MAIN PROFILE INFO-->
@@ -30,7 +35,7 @@ export function StudentTemplate(data, id) {
       <br />
 
       <!--SHOWREEL-->
-      <section class="mx-auto aspect-video w-3/4 max-w-200">
+      <section class="mx-auto aspect-video w-3/4 max-w-200  ${showreelExists ? "" : "hidden"}">
         <iframe
           class="h-full w-full"
           src="${data.showreel}"
