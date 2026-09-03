@@ -59,9 +59,9 @@ export function StudentTemplate(data, id) {
       
       <!--GALLERY-->
       <section
-        class="mx-auto grid w-3/4 max-w-300 grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-6 md:gap-4"
+        class="mx-auto grid grid-cols-2 sm:grid-cols-3 lg:flex lg:flex-row w-3/4 max-w-300 gap-2 sm:gap-4 justify-center"
       >
-        <div class="aspect-square">
+        <div class="aspect-square basis-45 ">
           <img
             onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
@@ -70,7 +70,7 @@ export function StudentTemplate(data, id) {
             onclick="galleryView(this)"
           />
         </div>
-        <div class="aspect-square">
+        <div class="aspect-square basis-45 ">
           <img
             onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
@@ -79,7 +79,7 @@ export function StudentTemplate(data, id) {
             onclick="galleryView(this)"
           />
         </div>
-        <div class="aspect-square">
+        <div class="aspect-square basis-45 ">
           <img
             onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
@@ -88,7 +88,7 @@ export function StudentTemplate(data, id) {
             onclick="galleryView(this)"
           />
         </div>
-        <div class="aspect-square">
+        <div class="aspect-square  basis-45 ">
           <img
             onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
@@ -97,7 +97,7 @@ export function StudentTemplate(data, id) {
             onclick="galleryView(this)"
           />
         </div>
-        <div class="aspect-square">
+        <div class="aspect-square  basis-45 ">
           <img
             onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
@@ -106,7 +106,7 @@ export function StudentTemplate(data, id) {
             onclick="galleryView(this)"
           />
         </div>
-        <div class="aspect-square">
+        <div class="aspect-square  basis-45 ">
           <img
             onerror="hideParentElement(this)"
             class="h-full max-h-full w-full max-w-full rounded-lg object-cover object-center"
