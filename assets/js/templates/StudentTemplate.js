@@ -54,7 +54,7 @@ export function StudentTemplate(data, id) {
       
       <!--GALLERY-->
       <section
-        class="mx-auto grid w-3/4 max-w-300 grid-cols-2 gap-2 md:grid-cols-6 md:gap-4"
+        class="mx-auto grid w-3/4 max-w-300 grid-cols-2 gap-2 sm:grid-cols-3 lg:grid-cols-6 md:gap-4"
       >
         <div class="aspect-square">
           <img
