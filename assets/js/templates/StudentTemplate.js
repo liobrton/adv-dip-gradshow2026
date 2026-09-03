@@ -38,7 +38,7 @@ export function StudentTemplate(data, id) {
       <section class="mx-auto aspect-video w-3/4 max-w-200  ${showreelExists ? "" : "hidden"}">
         <iframe
           class="h-full w-full"
-          src="${data.showreel}"
+          src="${showreel}"
           title="YouTube video player"
           frameborder="0"
           allow="
