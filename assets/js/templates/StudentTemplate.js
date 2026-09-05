@@ -25,12 +25,8 @@ export function StudentTemplate(data, id) {
             <h3 class="">${data.name}</h3>
             <h4 class="">${data.speciality}</h4>
           </div>
-          <a href="${data.link}" class="hidden md:inline"
-            ><i class="fa-brands fa-linktree"></i> linktr.ee</a
-          >
-          <a href="${data.link}" class="md:hidden"
-            ><i class="fa-brands fa-linktree"></i
-          ></a>
+          <a href="${data.link}" class="hidden md:inline"><i class="fa-brands fa-linktree"></i> linktr.ee</a>
+          <a href="${data.link}" class="md:hidden"><i class="fa-brands fa-linktree"></i></a>
         </div>
         <p class="">${data.artistStatement}</p>
       </section>
@@ -122,18 +118,8 @@ export function StudentTemplate(data, id) {
         />
       </div>
     </section>
-    <br />
-    <div
-      id="imageViewer"
-      class="fixed inset-0 hidden h-dvh bg-black/25"
-      onclick="this.style.display = 'none'"
-    >
-      <!--actual image-->
-      <img
-        id="expandedImg"
-        class="mx-auto my-25 aspect-auto max-h-3/4 max-w-3/4 md:max-w-1/2"
-      />
-    </div>
+
+
     <br />
     `;
 }

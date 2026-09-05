@@ -22,7 +22,7 @@
         expandedImg.src = img.src;
 
         //show the container element
-        expandedImg.parentElement.style.display = "block";
+        expandedImg.parentElement.style.display = "flex";
       }
 
       function hideParentElement(child) {
@@ -46,6 +46,18 @@
 
     <main id="pageMain" class="mx-auto w-full"></main>
 
+    <!--Gallery image viewer-->
+    <div
+      class="fixed inset-0 hidden h-dvh w-full flex-col justify-center bg-black/25"
+      onclick="this.style.display = 'none'"
+    >
+      <!--actual image-->
+      <img
+        id="expandedImg"
+        class="mx-auto aspect-auto max-h-3/4 max-w-3/4 md:max-w-1/2"
+      />
+    </div>
+    <br />
     <footer class="h-30 w-full bg-gray-200">
       <section></section>
     </footer>
