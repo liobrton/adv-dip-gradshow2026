@@ -1,170 +1,149 @@
 {
     "0": {
-        "name": "Nic Parker",
-        "speciality": "Storyboard Artist/2D Animator",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
-        "showreel": "https://www.youtube.com/embed/0uKK5BAoX5k"
+        "name": "Amy Lyell",
+        "speciality": "Concept Artist/Character Designer",
+        "artistStatement": "I am a passionate and diligent 2D Generalist, most practiced in character design and concept art for animation and games. I love creating and developing thought out and immersive characters, creatures and worlds of all kinds, with a great love for fantasy and fashion. My skills predominantly consist of illustration in software’s such as ClipStudioPaint and Photoshop as well as traditional paper illustration, which I use to bring characters and their stories to life. I have experience with working in a creative team and I am dedicated to developing my technical and creative skills by remaining open to all sorts of mediums and inspirations so I can continue to improve and broaden my creative palette.",
+        "link": "https://linktr.ee/RabbitssArt",
+        "showreel": ""
     },
     "1": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Ashleey Skinner",
+        "speciality": "3D Generalist/Environmental Designer",
+        "artistStatement": "Passionate 3D Generalist & Storyteller dedicated to creating immersive digital assets. Proven collaborator skilled in team workflows and continuously sharpening technical creative abilities.",
+        "link": "https://linktr.ee/AshleeySkinner",
         "showreel": ""
     },
     "2": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Ashton Ellis",
+        "speciality": "3D Generalist/3D Animator",
+        "artistStatement": "I am a hardworking, diligent 3D Generalist, I love working in teams to create imaginative games and animations. I love creating anything Art/Creative related and have the knack to work with whatever project I need to. Eager to work on any and all projects and creations. My skills are more versed towards 3D art, being able to create 3D models and 3D animations. I love being able to dedicate my ideas and creativeness into crafting visually interesting pieces.",
+        "link": "https://linktr.ee/Ashton_D_Ellis",
         "showreel": ""
     },
     "3": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Chanpreet Kamboj",
+        "speciality": "3D Character Artist/Creature Artist",
+        "artistStatement": "I'm a 3D artist who found my way into creature and character art, drawn by a passion for anatomy-inspired designs and bringing imaginative forms to life. Skilled in ZBrush, Maya, and Substance Painter across the full production pipeline, from concept sketch to final render, I'm committed to sharpening my technical and creative skills within collaborative studio environments.",
+        "link": "https://linktr.ee/3Dartistchanpreet",
         "showreel": ""
     },
     "4": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Darcy",
+        "speciality": "3D generalist/Enviroment",
+        "artistStatement": "I am a 3D Generalist with an interest in environment design and storyboarding for animation and games. I enjoy creating environments and visual stories while developing my skills across different areas of 3D and expanding my creative abilities.",
+        "link": "https://linktr.ee/B.darcy",
         "showreel": ""
     },
     "5": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Douglas Gould",
+        "speciality": "3D Modeller/Animator",
+        "artistStatement": "I'm a hard-working and enthusiastic 3D modeller with a flair for creating visually engaging creature and character models. I’m especially passionate about bringing ideas to life through the mediums of animation and tabletop gaming miniatures. I also have 3+ years of experience in 3D printing, miniature painting and concept development.",
+        "link": "https://linktr.ee/MakingSomethingUp",
         "showreel": ""
     },
     "6": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Nic Parker",
+        "speciality": "Storyboard Artist/2D Animator",
+        "artistStatement": "",
+        "link": "https://linktr.ee/phoenixprker",
         "showreel": ""
     },
     "7": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Felicity Smith",
+        "speciality": "Animator/3D Modeller",
+        "artistStatement": "I love getting my ideas onto a page and telling a story, which is why I have a strong interest in storyboarding and animation. I have experience working with both 2d and 3d art across the full animation pipeline and am keen to hone my abilities further.",
+        "link": "http://linktr.ee/melon_birds",
         "showreel": ""
     },
     "8": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "MegumiK",
+        "speciality": "3D Generalist/Digital Illustrator",
+        "artistStatement": "As an artist and student at North Metropolitan TAFE, I am passionate about pushing my creative boundaries and continuously developing my skills. My work sits between creativity and technology, combining technical skills with a deep passion for character creation and design. I am constantly inspired by the opportunity to create something from nothing, to take ideas from my imagination and transform them into characters, designs, and worlds that others can experience, whether in 2D or 3D. To me, there are no bounds to what we can create!",
+        "link": "https://graciefreem.carrd.co/",
         "showreel": ""
     },
     "9": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Jade",
+        "speciality": "2D Concept Artist/3D Modeller",
+        "artistStatement": "I am a student at North Metropolitan Tafe focusing on finishing my studies in Advance Diploma of Screen & Media (animation & game art design). I am working in a team as lead environmental 2D concept artist and 3D modeller for a game called Crazy Ice Cream. I am very passionate about both traditional and digital art. I want to futher develop and improve my skills in 2D animation and 3D modelling.",
+        "link": "https://linktr.ee/JadeEzmeralda",
         "showreel": ""
     },
     "10": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Joshua von Bertouch",
+        "speciality": "3D Generalist",
+        "artistStatement": "An aspiring 3D generalist proficient in contemporary game asset and animation production pipelines. Being a recent Animation and Game Art graduate, I'm keen for industry experience.",
+        "link": "https://linktr.ee/joshua.vonb",
         "showreel": ""
     },
     "11": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Klaus",
+        "speciality": "Game Designer / 3D Generalist",
+        "artistStatement": "I create immersive, character-driven game worlds inspired by the sense of wonder I felt growing up. My work spans environment design, character development, and gameplay systems, supported by strong technical skills in Unity, Unreal Engine, Game Maker, and 3D tools including Blender, Maya, and ZBrush. I aim to build experiences that feel alive, meaningful, and unforgettable for the next generation of players.",
+        "link": "https://linktr.ee/sp00kie6000",
         "showreel": ""
     },
     "12": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "KyosArtworks",
+        "speciality": "Concept Artist/Illustrator",
+        "artistStatement": "A Concept Artist & Illustrator for games & animations, bringing ideas to life through visual concepts. Studying in game art has given me the necessary tools and experience to confidently fit within the pipeline. Inspired by stylized games visuals, film and other stylized media, it is my drive to collaborate to make something similar in the industry. I will share my experience for future artists!",
+        "link": "https://linktr.ee/Kyoartworks",
         "showreel": ""
     },
     "13": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Lucas Beaton",
+        "speciality": "Concept Artist/Zbrush Modeller",
+        "artistStatement": "My work typically focuses on developing complex characters and exploring themes influenced by nature and literature. I have had the opportunity to work in a wide variety of mediums and spent the last 3 years creating working in industry standard software such as Zbrush, Maya, and the Adobe Suite. I am also experienced in traditional painting and drawing having done a wide variety of commissioned projects.",
+        "link": "https://linktr.ee/btonne",
         "showreel": ""
     },
     "14": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Matt",
+        "speciality": "3D Artist/Game/Designer",
+        "artistStatement": "My word typically focuses around hard surface modelling, rigging and animation. I enjoy designing models and game mecahnics that interact with eachother in complex ways. I also think a pillar of good game design is readable, stylised and functional UI and strive to achieve this in my game projects. I work best when collaborating with other people and recieve timely feedback on my work.",
+        "link": "https://linktr.ee/speedweed88",
         "showreel": ""
     },
     "15": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Megan",
+        "speciality": "",
+        "artistStatement": "",
+        "link": "https://linktr.ee/Sm4rt_Bear",
         "showreel": ""
     },
     "16": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Neysha",
+        "speciality": "2D Artist",
+        "artistStatement": "I'm a 2D artist I found my way to draw by watching cartoons and anime when I was young and watching speedpaints on youtube that grew my way of drawing I have been drawing for 10 years now, I use PaintTool SAI2",
+        "link": "https://linktr.ee/blissbomb05",
         "showreel": ""
     },
     "17": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Mrcatdad_",
+        "speciality": "Concept Artist/Character Designer",
+        "artistStatement": "I began my artist journey at a very young age, inspired by the world around me and the animations I saw on tv like Tom and Jerry, Power Puff Girls and MLP: FIM, and animes such as Card Captor Sakura, Cowboy Bebop and many more! I am a passionate storywriter, character designer and 2D animator and I'm constantly pursing my dream of creating my own series to inspire others in the same way I was.",
+        "link": "https://linktr.ee/Mrcatdad_",
         "showreel": ""
     },
     "18": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Phinehas Solomon Smeaton",
+        "speciality": "3D Generalist/3D Modeler",
+        "artistStatement": "I am a dedicated 3D Modeller specializing in stylized, low-to-mid poly props, modular environments, and NPC characters. My work emphasizes environmental storytelling and pipeline efficiency. I am deeply invested in the entire asset pipeline, from initial 3D blockouts and weightpainting to UV unwrapping and final engine integration. Currently completing my Advanced Diploma of Screen and Media in Animation & Game Art Design. I look forward to working in a team to create highly optimizing and visually engaging assets within any budgets.",
+        "link": "https://linktr.ee/slimecube",
         "showreel": ""
     },
     "19": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "Taylor Hopgood",
+        "speciality": "Game Designer/3D Animator",
+        "artistStatement": "Growing up I was always drawing and making crafts. Then I was introduced to Crash Bandicoot on the PS1 which inspired an interest in game development. I was messing around with any level editors and creative tools I could get my hands on. I first pursued graphic design and loved it. The tools and principles can translate into any medium. But I still had the itch to create games. Now I'm studying animation and games. I've picked up a broad skillset: 3D modelling and texturing, 2D/3D animation and rigging, particle FX, game design, and using game engines. I am drawn to 3D animation, and game/level design is my long-term goal. I'll give anything a crack, except crack.",
+        "link": "https://taylorhopgood.carrd.co/",
         "showreel": ""
     },
     "20": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
-        "showreel": ""
-    },
-    "21": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
-        "showreel": ""
-    },
-    "22": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
-        "showreel": ""
-    },
-    "23": {
-        "name": "Student Name",
-        "speciality": "Student Speciality",
-        "artistStatement": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum ac viverra arcu. Sed malesuada venenatis massa sed dictum. Nam vestibulum dui ut efficitur vehicula. Maecenas consectetur tempor massa ut pulvinar. Sed commodo accumsan nulla, sit amet feugiat lectus ullamcorper ut. Sed consequat, nisl ac dictum aliquet, justo augue aliquam turpis, at consectetur tellus magna quis lacus.",
-        "link": "https://linktr.ee/",
+        "name": "William Golightly",
+        "speciality": "2D Concept Artist/3D Modeller",
+        "artistStatement": "Constantly pursuing the improvement of my work I'm a hard-working 2D/3D focusing on stylised concepts, models and textures I have experience In Maya, Blender, Photoshop and Substance Painter. My passion is in creating wonderous stylised characters and props and have experience in every part of the pipeline in game making, ready to work collaboratively with a team.",
+        "link": "https://tr.ee/Fbr4pX",
         "showreel": ""
     }
 }
