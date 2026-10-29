@@ -21,3 +21,9 @@
     @apply text-base italic;
   }
 }
+
+@theme {
+  --color-next-blue: #00BAFF; 
+  --color-next-pink: #EF00A5; 
+  --color-next-green: #96FF00; 
+}

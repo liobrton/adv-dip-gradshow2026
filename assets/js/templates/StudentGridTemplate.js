@@ -1,6 +1,6 @@
 export function StudentGridTemplate(data, id) {
     return `
-          <a href="./student.html?id=${id}" class="w-1/2 p-2 sm:w-45 group hover:nth-[3n+1]:text-[#00BAFF] hover:nth-[3n+2]:text-[#EF00A5] hover:nth-[3n]:text-[#96FF00]">
+          <a href="./student.html?id=${id}" class="w-1/2 p-2 sm:w-45 group hover:nth-[3n+1]:text-next-blue hover:nth-[3n+2]:text-next-pink hover:nth-[3n]:text-next-green">
             <div class="flex flex-col">
               <div class="mx-auto aspect-square w-full h-full">
                 <img
