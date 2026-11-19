@@ -1,14 +1,14 @@
 export function StudentGridTemplate(data, id) {
     return `
-        <div class="w-1/2 p-2 sm:w-45 relative group hover:nth-[3n+1]:text-next-blue hover:nth-[3n+2]:text-next-pink hover:nth-[3n]:text-next-green">
+        <div class="w-1/2 p-2 sm:w-45 relative group hover:nth-[3n+1]:text-next-blue hover:nth-[3n+2]:text-next-pink hover:nth-[3n]:text-next-green lg:nth-[6n+1]:*:right-0 lg:nth-[6n+2]:*:right-0 lg:nth-[6n+3]:*:right-0 lg:nth-[6n+4]:*:left-0 lg:nth-[6n+5]:*:left-0 lg:nth-[6n]:*:left-0">
           <section
-            class="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 text-white text-center bg-gray-500 w-75 h-75 rounded hidden group-hover:inline"
+            class="z-1 fixed inset-y-0 bg-gray-500 w-90 rounded hidden group-hover:inline"
           >
             <img
-              class="w-full h-full object-cover object-center"
+              class="w-full h-full object-cover object-center p-2"
               src="./assets/images/${id}/gallery01.png"
             />  
-            <h3 class="absolute inset-x-0 bottom-0">${data.name}</h3>
+            <h1 class="text-center absolute inset-x-0 bottom-4">${data.name}</h3>
           </section>
 
           <a href="./student.html?id=${id}" class="">
