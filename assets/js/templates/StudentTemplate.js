@@ -1,7 +1,9 @@
 export function StudentTemplate(data, id) {
-  // check if showreel is linked
+  // check if showreel and/or linktree exists
   const showreel = data.showreel.trim();
   let showreelExists = showreel.length > 0 ? true : false;
+  const link = data.link.trim();
+  let linkExists = link.length > 0 ? true : false;
 
   // if no showreel linked, hide that element
   return `
@@ -25,8 +27,7 @@ export function StudentTemplate(data, id) {
             <h3 class="">${data.name}</h3>
             <h4 class="">${data.speciality}</h4>
           </div>
-          <a href="${data.link}" class="hidden md:inline"><i class="fa-brands fa-linktree"></i> linktr.ee</a>
-          <a href="${data.link}" class="md:hidden"><i class="fa-brands fa-linktree"></i></a>
+          <a href="${data.link}" class="${linkExists ? "" : "hidden"}"><i class="fa-brands fa-linktree"></i><p class="hidden md:inline">linktr.ee</p></a>
         </div>
         <p class="">${data.artistStatement}</p>
       </section>

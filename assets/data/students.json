@@ -24,7 +24,7 @@
         "name": "Chanpreet Kamboj",
         "speciality": "3D Character Artist / Creature Artist",
         "artistStatement": "I'm a 3D artist who found my way into creature and character art, drawn by a passion for anatomy-inspired designs and bringing imaginative forms to life. Skilled in ZBrush, Maya, and Substance Painter across the full production pipeline, from concept sketch to final render, I'm committed to sharpening my technical and creative skills within collaborative studio environments.",
-        "link": "https://linktr.ee/3Dartistchanpreet",
+        "link": "https://linktr.ee/Smazing04",
         "showreel": ""
     },
     "4": {
@@ -44,7 +44,7 @@
     "6": {
         "name": "Nic Parker",
         "speciality": "Storyboard Artist / 2D Animator",
-        "artistStatement": "I’m a storyboard artist and comic maker who enjoys creating character-centric worlds and stories. I love exploring themes of  identity and personhood in my art, especially through a sci-fi or fantasy lens.  My skills largely lie in character drawing, concept art, and visual storytelling for comics and storyboarding, but I am also a competent 3D artist and have a fundamental understanding of multiple programming languages and game engines.",
+        "artistStatement": "I'm a storyboard artist and comic maker who enjoys creating character-centric worlds and stories. I love exploring themes of  identity and personhood in my art, especially through a sci-fi or fantasy lens.  My skills largely lie in character drawing, concept art, and visual storytelling for comics and storyboarding, but I am also a competent 3D artist and have a fundamental understanding of multiple programming languages and game engines.",
         "link": "https://linktr.ee/phoenixprker",
         "showreel": "https://www.youtube.com/embed/x5i2xdboUr4?si=r9A9y1GSCAEWzitl"
     },
@@ -78,7 +78,7 @@
     },
     "11": {
         "name": "Klaus",
-        "speciality": "Game Designer  /  3D Generalist",
+        "speciality": "Technical Artist  /  3D Generalist",
         "artistStatement": "I create immersive, character-driven game worlds inspired by the sense of wonder I felt growing up. My work spans environment design, character development, and gameplay systems, supported by strong technical skills in Unity, Unreal Engine, Game Maker, and 3D tools including Blender, Maya, and ZBrush. I aim to build experiences that feel alive, meaningful, and unforgettable for the next generation of players.",
         "link": "https://linktr.ee/sp00kie6000",
         "showreel": ""
@@ -137,6 +137,27 @@
         "speciality": "2D Concept Artist / 3D Modeller",
         "artistStatement": "Constantly pursuing the improvement of my work I'm a hard-working 2D/3D focusing on stylised concepts, models and textures I have experience In Maya, Blender, Photoshop and Substance Painter. My passion is in creating wonderous stylised characters and props and have experience in every part of the pipeline in game making, ready to work collaboratively with a team.",
         "link": "https://tr.ee/Fbr4pX",
+        "showreel": ""
+    },
+    "21": {
+        "name": "Jessie Smith",
+        "speciality": "Project Manager / 2D Animator",
+        "artistStatement": "I am a graphic designer and studying to become a project manager at North metropolitain TAFE Joondalup under the Advance Diploma of Animation course. I have managed and been a part of many projects in the past few years and hope to take on many more in the future. My current goal is to hopefully find a job as an understudy or an in-betweener in animation.",
+        "link": "https://linktr.ee/Luka_Lightheart",
+        "showreel": ""
+    },
+    "22": {
+        "name": "Andy Rogan",
+        "speciality": "3D Generalist / 3D Animator",
+        "artistStatement": "Hi, my name's Andy. I'm an aspiring 3D animator and screenwriter. I have a particular interest in 3D character creation; modeling, texturing and rigging, as well as a deep appreciation for storytelling. I want to use animation as a medium to create narratives and worlds that touch on big ideas in emotionally engaging ways.",
+        "link": "",
+        "showreel": ""
+    },
+    "23": {
+        "name": "Matthew Wise",
+        "speciality": "3D Modeller / Video Editor",
+        "artistStatement": "I am an animator, 3D modeller, and video editor who specializes in dark, brutal, purpose-fuelled projects that touch the hearts of viewers in ways they can't really explain. I excel when being able to convey a deeper message (or multiple deeper messages) through the characters' subtle behaviours, and actions. I prefer working in a consistent team of peers but I am experienced in working with a variety of people with different working styles, as well working on my own on commissioned projects.",
+        "link": "",
         "showreel": ""
     }
 }
