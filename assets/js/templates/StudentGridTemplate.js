@@ -8,9 +8,10 @@ export function StudentGridTemplate(data, id) {
               class="w-full h-full object-cover object-center"
               src="./assets/images/${id}/gallery01.png"
             />
-            <section class="absolute inset-x-0 bottom-4 mx-2">
-            <h1 class="text-center text-white text-shadow-lg/50">${data.name}</h1>
-            <h2 class="text-center text-white text-shadow-lg/50">${data.speciality}</h1>
+            <section class="absolute inset-x-0 bottom-4 p-2 bg-black/50">
+              <h1 class="text-center text-white ">${data.name}</h1>
+              <h2 class="text-center text-white ">${data.speciality}</h1>
+              <p class="text-white ">${data.artistStatement.slice(0, 180) + '...'}</p>
             </section>
           </section>
 
