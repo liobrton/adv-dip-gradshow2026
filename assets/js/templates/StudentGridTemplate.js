@@ -2,7 +2,7 @@ export function StudentGridTemplate(data, id) {
     return `
         <div class="w-1/2 p-2 sm:w-45 relative group hover:nth-[3n+1]:text-next-blue hover:nth-[3n+2]:text-next-pink hover:nth-[3n]:text-next-green lg:nth-[6n+1]:*:right-0 lg:nth-[6n+2]:*:right-0 lg:nth-[6n+3]:*:right-0 lg:nth-[6n+4]:*:left-0 lg:nth-[6n+5]:*:left-0 lg:nth-[6n]:*:left-0">
           <section
-            class="z-1 fixed inset-y-0 bg-gray-500 w-90 rounded hidden group-hover:inline shadow-xxl/100 border-x-8"
+            class="z-1 fixed inset-y-0 bg-gray-500 w-90 rounded hidden lg:group-hover:inline shadow-xxl/100 border-x-8"
           >
             <img
               class="w-full h-full object-cover object-center"
