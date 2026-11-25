@@ -19,7 +19,7 @@ export function StudentGridTemplate(data, id) {
             <div class="flex flex-col">
               <div class="mx-auto aspect-square w-full h-full">
                 <img
-                  class="h-full max-h-full w-full max-w-full rounded-full object-cover object-center group-hover:border-5"
+                  class="h-full max-h-full w-full max-w-full rounded-full object-cover object-center border-2 group-hover:border-5"
                   src="./assets/images/${id}/profile.png"
                   alt=""
                 />

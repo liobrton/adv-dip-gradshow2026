@@ -14,7 +14,7 @@ export function StudentTemplate(data, id) {
     >
       <div class="mx-auto my-auto aspect-square w-50 md:w-100">
         <img
-          class="h-full max-h-full w-full max-w-full rounded-full object-cover object-center"
+          class="h-full max-h-full w-full max-w-full rounded-full object-cover object-center border-2"
           src="./assets/images/${id}/profile.png"
           alt=""
         />
